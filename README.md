@@ -7,10 +7,10 @@ telegram - @Xacker_ducker
 [репозиторий lab06](https://github.com/Alex1505Gold/lab06)</br>
 Были выплнены следующие команды
 ```shell
-export GITHUB_USERNAME=<имя_пользователя>
-export GITHUB_EMAIL=<адрес_почтового_ящика>
-alias edit=<nano|vi|vim|subl>
-alias gsed=sed # for *-nix system
+export GITHUB_USERNAME=Alex1505Gold
+export GITHUB_EMAIL=sgolenkov2002@gmail.com
+alias edit=nano
+alias gsed=sed 
 cd ${GITHUB_USERNAME}/workspace
 pushd .
 source scripts/activate
